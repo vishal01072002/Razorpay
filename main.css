@@ -1,0 +1,9 @@
+/* and paste below command */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* .featureCard:hover .featureCardBox {
+    background-image: url('/assets/features-wave.svg');
+    background-repeat: no-repeat;
+    background-position: bottom 1rem right; */
